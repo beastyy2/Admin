@@ -8,7 +8,8 @@ First, run the development server:
 
 npm install
 
-ekstrak db , nyalakan dengan mysql
+import db , nyalakan dengan mysql
+
 npn run dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
